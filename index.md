@@ -6,3 +6,4 @@ Pan Tau ist eine Maerchenfigur. Pan Tau ist eine Maerchenfigur. Pan Tau ist eine
 * elegant
 * kann zaubern
 > Pan Tau spricht nicht
+![Symbolfoto](https://de.wikipedia.org/wiki/Datei:Tophat2.jpg)

@@ -5,4 +5,4 @@ Pan Tau ist eine Maerchenfigur. Pan Tau ist eine Maerchenfigur. Pan Tau ist eine
 * spricht nicht
 * elegant
 * kann zaubern
-> ... (Pan Tau spricht nicht)
+> Pan Tau spricht nicht
